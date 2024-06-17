@@ -52,9 +52,11 @@ Lista de software y herramientas, incluyendo versiones, que necesitas para insta
 ## Visuales :mage_woman:
 
 - #### Home:
+![Home](https://github.com/andreaendigital/react_pokeapi/assets/154395788/ec148a64-a65a-407b-bf1c-0ce2409f7b41)
 
 
 - #### Pokedex:
+![pokedex](https://github.com/andreaendigital/react_pokeapi/assets/154395788/8376c6b4-3df8-443b-a838-e4699a3ad457)
 
 
 
